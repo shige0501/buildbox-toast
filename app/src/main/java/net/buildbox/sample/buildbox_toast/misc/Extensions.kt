@@ -1,4 +1,4 @@
-package net.buildbox.sample.buildbox_toast.extension
+package net.buildbox.sample.buildbox_toast.misc
 
 import android.content.Context
 import android.widget.Toast

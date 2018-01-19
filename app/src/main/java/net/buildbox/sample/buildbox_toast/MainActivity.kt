@@ -2,7 +2,7 @@ package net.buildbox.sample.buildbox_toast
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
-import net.buildbox.sample.buildbox_toast.extension.showToast
+import net.buildbox.sample.buildbox_toast.misc.showToast
 
 class MainActivity : AppCompatActivity() {
 
